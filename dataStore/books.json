@@ -1,0 +1,14 @@
+[
+  {
+    "ID":"a60ef22f-e3e6-47c6-9171-33848a63fa50",
+    "Title":"Harry Potter",
+    "Borrowed":false,
+    "Authors":["040f873d-df27-4f5c-8161-25ac0357ea35","62fcde03-1b6e-42ba-96cd-e0dbab1f60a9"]
+  },
+  {
+    "ID":"a61ef22f-e3e6-47c6-9171-33848a63fa50",
+    "Title":"Parry Hotter",
+    "Borrowed":false,
+    "Authors":["040f873d-1b6e-42ba-96cd-e0dbab1f60a9"]
+  }
+]

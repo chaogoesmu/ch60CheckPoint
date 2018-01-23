@@ -1,0 +1,28 @@
+{
+  "name": "ch60CheckPoint",
+  "version": "1.0.0",
+  "description": "chapter 60 checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaogoesmu/ch60CheckPoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaogoesmu/ch60CheckPoint/issues"
+  },
+  "homepage": "https://github.com/chaogoesmu/ch60CheckPoint#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11",
+    "papaparse": "^4.3.6",
+    "uuid": "^3.2.1"
+  }
+}
